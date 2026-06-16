@@ -1,0 +1,6 @@
+{
+  "name": "FreelanceHub",
+  "description": "A highly polished, interactive freelance marketplace combining a sleek modern landing page, a real-time dashboard, intuitive project posting, interactive proposal management, and role switching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
